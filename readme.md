@@ -2,7 +2,7 @@
 
 Hey everyone, Happy Holidays!
 
-Here's the code: for each person it randomly chooses a target outside the
+Here's the code.  For each person it randomly chooses a target outside the
 person's family.
 
 I took the opportunity to practice some Javascript (`randomize.js`) and you can
