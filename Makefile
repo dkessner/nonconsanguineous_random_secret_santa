@@ -2,7 +2,7 @@
 # Makefile (for Ellis)
 #
 
-assignment.json:
+assignment.json: participants.json
 	node randomize.js
 	#python randomize.py
 	python write_files.py
